@@ -8,7 +8,7 @@ import java.io.IOException;
 
 public class LLMTestConnections {
 
-    private static final String API_KEY = "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";
+    private static final String API_KEY = "s";
     private static final String API_URL = "https://api.openai.com/v1/chat/completions";
 
     public static void main(String[] args) throws IOException {
